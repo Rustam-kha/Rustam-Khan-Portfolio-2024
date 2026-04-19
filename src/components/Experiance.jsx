@@ -45,7 +45,7 @@ function Experience() {
       company: "Logic Lumen System",
       location: "Peshawar, Pakistan (Onsite)",
       period: "1.5 Months Summer Internship",
-      date: "2024",
+      date: "2025",
       type: "Internship",
       icon: FaWordpress,
       iconColor: "from-blue-600 to-cyan-600",
