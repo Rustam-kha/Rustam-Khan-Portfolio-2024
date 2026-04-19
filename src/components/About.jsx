@@ -16,7 +16,7 @@ function About() {
     >
       {/* Title Section */}
       <h1 className="text-5xl font-extrabold text-center text-blue-700 mb-10">
-        About Me
+        About Me rUSTAM Mkah
       </h1>
 
       {/* Introduction Section */}
